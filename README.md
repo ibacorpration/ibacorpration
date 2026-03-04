@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ibrahem Sayed</h1>
+<h3 align="center">AI Student | Computer Vision Enthusiast | ML Developer</h3>
 
-<!--
-**ibacorpration/ibacorpration** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student at Faculty of Computers & Information
+- 🤖 Interested in Artificial Intelligence & Computer Vision
+- 🧠 Currently working on AI graduation projects
+- 💡 Passionate about building real-world AI systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Python
+- TensorFlow / Keras
+- OpenCV
+- YOLOv8
+- Scikit-Learn
+- Pandas & NumPy
+- Streamlit
+
+---
+
+## 📊 GitHub Stats
+![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: (حط اللينك هنا)
+- Email: (حط ايميلك هنا)
