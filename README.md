@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahem Sayed</h1>
-<h3 align="center">AI Student | Computer Vision Engineer | ML Developer</h3>
+<h3 align="center">AI & Computer Vision Engineer | Automation n8n </h3>
 
 ---
 
