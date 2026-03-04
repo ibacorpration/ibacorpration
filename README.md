@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahem Sayed</h1>
-<h3 align="center">AI Student | Computer Vision Enthusiast | ML Developer</h3>
+<h3 align="center">AI & Computer Vision Engineer | Automation N8N </h3>
 
 ---
 
@@ -23,15 +23,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibacorpration&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibacorpration&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (حط اللينك هنا)
-- Email: (حط ايميلك هنا)
+- LinkedIn: www.linkedin.com/in/ibrahem-sayed-1b38722a4
+- Email: ibrahemk09zobj@gmail.com
