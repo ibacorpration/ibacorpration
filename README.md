@@ -30,12 +30,9 @@
 - 🌐 Streamlit
 
 ---
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ibacorpration&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibacorpration&show_icons=true)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibacorpration&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibacorpration&layout=compact&theme=radical)
 
 ---
 
