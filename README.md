@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/feab6498-f189-45de-92f9-57f04e0710df" width="800"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ibrahem Sayed</h1>
 <h3 align="center">AI & Computer Vision Engineer | Automation n8n </h3>
 
