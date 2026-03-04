@@ -23,12 +23,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibacorpration&show_icons=true&theme=tokyonight)
+![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibacorpration=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibacorpration&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibacorpration=compact&theme=tokyonight)
 
 ---
 
